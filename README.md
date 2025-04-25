@@ -80,5 +80,6 @@ docker build -t integration-service ./integration-service
 docker build -t notification-service ./notification-service
 docker build -t aggregator-service ./aggregator-service
 docker build -t reporting-service ./reporting-service
+```
 
 Developed by Kalhari Ekanayake for the CMM707 Cloud Computing coursework (Robert Gordon University, 2025).
